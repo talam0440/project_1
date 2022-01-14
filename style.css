@@ -1,0 +1,164 @@
+body {
+    margin: 0 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top_area{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin-left: 35px;
+
+}
+.area_text{
+    width: 40%;
+    height: auto;
+    margin-top: 80px;
+
+}
+.heading_border{
+    border-left: 4px solid;
+    border-image: linear-gradient(orange, red);
+    border-image-slice:1;
+    margin-left: 0px;
+    
+    }
+#top_heading{
+    font-family:'El Messiri', sans-serif;
+    font-size: 55px;
+    margin-left: 5px;
+    margin-bottom: 0;
+    
+}
+
+.text_details{
+    margin-bottom: 30px;
+}
+
+.text_scroll{
+    margin-top: 25px;
+}
+
+.orange_highlighter{
+    color: orange;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(red,orange);
+    margin-top: 5px;
+}
+
+
+.area_img{
+    width: 60%;
+    height: auto;
+
+}
+
+
+.top_img{
+    width: 50%;
+    display: block;
+    margin: auto;
+    
+}
+
+.mid_area{
+    border-top: 20px;
+    width: 100%;
+}
+
+.area_heading {
+    width:100%;
+    text-align: center;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-family: 'Merriweather Sans', sans-serif;
+    border-bottom: 20px;
+    font-weight: 600;
+}
+
+.mid_container{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.mission{
+    width: 29%;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-left: 20px;
+
+}
+.mid_area_img{
+    width:47%;
+    height:35%;
+}
+
+.color_green{
+    background-color: #EDF5F6;
+}
+.color_red{
+background-color: #FFEEEE;
+}
+.color_orange{
+background-color: #FFF4D6;
+}
+
+.develop_area{
+    display: flex;
+    margin-top: 88px;
+}
+
+.dev_img{
+    width: 40%;
+    height: auto;
+    
+}
+
+.code_img{
+    width: 80%;
+    margin-left: 45px;
+    
+}
+
+.dev_text{
+    width: 58%;
+    margin-left: -5px;
+}
+
+.dev_heading{
+    font-size: 25px;
+    padding-top: 37px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+.dev_details{
+    margin-bottom: 40px;
+}
+.know_text{
+        width: 58%;
+       margin-left: 27px;
+}
+    
+
+#footer_sec{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer_heading{
+    padding-top: 40px;
+    font-size: 35px;
+    font-family:'El Messiri', sans-serif;
+}
+
+.footer_details{
+    padding-bottom: 40px;
+}
